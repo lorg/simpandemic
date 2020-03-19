@@ -1,0 +1,2 @@
+# simpandemic
+Simulating a pandemic
